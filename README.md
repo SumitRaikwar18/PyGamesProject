@@ -31,7 +31,7 @@ This project aims to empower the community by allowing users from all skill leve
 - Ensure your game is well-documented for others to understand.
 - Follow best coding practices and game design principles.
 - Respect the contributions of others and be constructive in your feedback.
-- 
+  
 **Join the Fun:**
 Let's make this Hacktoberfest memorable by creating an incredible library of PyGames together! Join us and share your passion for game development with the world.
 
